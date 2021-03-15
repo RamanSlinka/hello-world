@@ -1,4 +1,4 @@
 # hello-world
 
-Hi eweryone!
+Hi everyone!
 This is my first page:)
